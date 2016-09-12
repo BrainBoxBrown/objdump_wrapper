@@ -1,7 +1,9 @@
 # objdump_wrapper
 Python script (just a function really) that gets the address/bytes/opcode/args from objdump -d
 
-Returns this
+Returns a structure like this
+
+
 	"""
 	  [
 			{
